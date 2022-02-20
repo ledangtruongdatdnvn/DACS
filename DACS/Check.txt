@@ -1,0 +1,6 @@
+Equation Solutions:(5)
+1.15		1.04		0.93		0.82		0.71	
+Equation Solutions:(6)
+1.11		1.00		0.89		0.78		0.67		0.56
+Equation Solutions:(7)
+1.08		0.97		0.86		0.75		0.64		0.53		0.42	
